@@ -1,5 +1,7 @@
-<!-- Add Kali Linux Background -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="100%" alt="Kali Linux Banner">
+<!-- Kali Linux Background -->
+<p align="center">
+  <img src="https://www.kali.org/images/kali-logo.svg" width="100%">
+</p>
 
 # ![Cybersecurity](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
