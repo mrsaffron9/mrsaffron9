@@ -1,26 +1,33 @@
-<!-- Cybersecurity Image Cover -->
+<!-- Cybersecurity Themed Cover Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/YwN07hHXiZhm3F8chz/giphy.gif" width="80%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
-# 👨‍💻 **Cybersecurity Enthusiast | Ethical Hacker | Security Researcher**  
-Welcome to my GitHub! I’m [Your Name], a cybersecurity enthusiast focused on ethical hacking, penetration testing, and security research.  
-I'm continuously expanding my skills and exploring the latest vulnerabilities and exploits.
+# 👨‍💻 **[Your Name] | Cybersecurity Enthusiast**  
+*Passionate about Ethical Hacking, Penetration Testing, and Security Research*  
+Welcome to my GitHub profile! I'm an aspiring cybersecurity expert with a focus on ethical hacking and continuous learning. Currently enhancing my skills in binary exploitation, cryptography, and web security.
 
 ---
 
-## 🚀 **Current Focus**
-- **Hands-On Learning**: Constantly participating in **Capture The Flag (CTF)** challenges and security assessments.
-- **Vulnerability Exploration**: Diving deep into real-world vulnerabilities and attack methodologies.
-- **Tool Mastery**: Strengthening proficiency with key cybersecurity tools.
+## 🚀 **What I’m Working On**  
+As I dive deeper into the world of cybersecurity, these are the areas I’m currently focusing on:
+- **Binary Exploitation**: Working on reverse engineering and binary analysis.
+- **Cryptography**: Understanding cryptographic algorithms, encryption, and hashing techniques.
+- **Penetration Testing**: Strengthening my skills in ethical hacking, vulnerability assessments, and exploitation.
+- **Web Security**: Securing web applications and defending against common attacks like SQL injection, XSS, and CSRF.
 
 ---
 
-## 🛠️ **Skills & Expertise**
-### **Penetration Testing & Security**  
-- **Burp Suite**: Web vulnerability scanning and testing  
-- **Wireshark**: Network packet analysis and traffic inspection  
-- **Nmap**: Network discovery and security auditing  
-- **Kali Linux**: My go-to operating system for ethical hacking and penetration testing.
+## 🛠️ **My Skill Set**  
+Here's a list of the tools and technologies I actively use to hone my skills:
 
-### **Programming & Exploitation*
+### **Security Tools:**
+- **Burp Suite**: Web vulnerability scanner and security testing.
+- **Wireshark**: Network traffic analysis and protocol inspection.
+- **Nmap**: Comprehensive network scanner and discovery tool.
+- **Dirb & Gobuster**: Tools for web directory brute-forcing and enumeration.
+- **Kali Linux**: The ultimate OS for penetration testing and ethical hacking.
+
+### **Technologies I Use:**
+- **Linux Commands**: Mastering the Linux command line for efficient security tasks.
+- **Python**: Automating ta
