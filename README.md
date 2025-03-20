@@ -1,10 +1,12 @@
+# ![Cybersecurity](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)  
+
 # Hi there! 👋  
 
-I'm [Your Name], a cybersecurity enthusiast passionate about ethical hacking and security research.  
+I'm Vamshi, a cybersecurity enthusiast passionate about ethical hacking and security research.  
 I'm currently learning and improving my skills in:  
 
-## 🚀 Skills  [
-- **Binary Exploitation**  
+## 🚀 Skills  
+- ![Binary Exploitation](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif) **Binary Exploitation**  
 - ![Cryptography](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif) **Cryptography**  
 - ![Web Security](https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif) **Web Security**  
 - ![Penetration Testing](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif) **Penetration Testing**  
