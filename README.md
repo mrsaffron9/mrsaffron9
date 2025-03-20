@@ -1,4 +1,7 @@
-![Kali Linux GNOME](https://i.imgur.com/ZsGxFzQ.jpeg)  
+<!-- Add Kali Linux Background -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="100%" alt="Kali Linux Banner">
+
+# ![Cybersecurity](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 # Hi there! 👋  
 
