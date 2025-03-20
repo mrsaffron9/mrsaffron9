@@ -11,12 +11,13 @@ I'm currently learning and improving my skills in:
 - <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="40"> **Web Security**  
 - <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="40"> **Penetration Testing**  
 
-## 🛠️ Tools & Technologies  
-- <img src="https://media.giphy.com/media/J5hPQE2Y8cC6p8MroU/giphy.gif" width="40"> **Burp Suite**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Nmap_logo.svg" width="40"> **Nmap**  
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40"> **Dirb & Gobuster**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40"> **Linux Commands**  
-- <img src="https://media.giphy.com/media/UqZp0PuhWComQzN6Xr/giphy.gif" width="40"> **Wireshark**  
+## 🛠️ Tools & Technologies 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40"> **Linux Commands** 
+- <img src="https://your-image-hosting.com/path-to-image.jpg" width="40"> **Burp Suite**  
+- <img src="https://your-image-hosting.com/path-to-image.jpg" width="40"> **Wireshark**  
+- <img src="https://your-image-hosting.com/path-to-image.jpg" width="40"> **Nmap**  
+- <img src="https://your-image-hosting.com/path-to-image.jpg" width="40"> **Dirb & Gobuster**  
+
 
 ## 📌 Current Focus  
 🔹 Enhancing my skills by participating in CTFs and hands-on security challenges.  
