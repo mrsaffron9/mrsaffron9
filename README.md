@@ -1,7 +1,7 @@
 <!-- Kali Linux Background -->
 <p align="center">
   <img src="https://www.kali.org/images/kali-logo.svg" width="100%">
-</p>
+
 
 # ![Cybersecurity](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
@@ -34,3 +34,4 @@ Feel free to connect with me on GitHub, and let's share knowledge together!
 ---
 
 🌱 *"Security is a journey, not a destination."*  
+</p>
