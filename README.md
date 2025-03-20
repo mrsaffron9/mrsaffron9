@@ -1,6 +1,6 @@
 <!-- Kali Linux Background -->
 <p align="center">
-  <img src="https://www.kali.org/images/kali-logo.svg" width="100%">
+  <img src="https://wallpapercave.com/wp/wp4323590.jpg" width="100%">
 </p>
 
 # ![Cybersecurity](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
