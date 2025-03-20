@@ -1,4 +1,4 @@
-# ![Cybersecurity](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Kali Linux GNOME](https://i.imgur.com/ZsGxFzQ.jpeg)  
 
 # Hi there! 👋  
 
