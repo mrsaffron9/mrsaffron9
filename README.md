@@ -4,7 +4,7 @@ I'm [Your Name], a cybersecurity enthusiast passionate about ethical hacking and
 I'm currently learning and improving my skills in:  
 
 ## 🚀 Skills  [
-- (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pipelinepub.com%2Fcybersecurity-assurance-2024%2F3461&psig=AOvVaw0hShkPCqMTHvaoWFY28d0Y&ust=1742522624015000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCC4fbIl4wDFQAAAAAdAAAAABAE)**Binary Exploitation**  
+- **Binary Exploitation**  
 - ![Cryptography](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif) **Cryptography**  
 - ![Web Security](https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif) **Web Security**  
 - ![Penetration Testing](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif) **Penetration Testing**  
