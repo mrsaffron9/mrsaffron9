@@ -1,41 +1,26 @@
-# 👨‍💻 Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
+<!-- Cybersecurity Image Cover -->
+<p align="center">
+  <img src="https://media.giphy.com/media/YwN07hHXiZhm3F8chz/giphy.gif" width="80%" />
+</p>
 
-Welcome to my GitHub! I'm [Your Name], passionate about **ethical hacking** and **cybersecurity research**. I'm currently enhancing my skills and diving deep into various domains like:
-
-- **Binary Exploitation**
-- **Cryptography**
-- **Web Security**
-- **Penetration Testing**
-
-## 🚀 Current Focus
-- Learning by participating in **Capture The Flag (CTF)** challenges.
-- Gaining hands-on experience through **vulnerability assessments** and **exploitation techniques**.
-- Keeping up to date with the latest in **cybersecurity trends** and **attack methodologies**.
-
-## 🛠️ Tools & Technologies
-
-### Security Tools:
-- **Burp Suite**: Web vulnerability scanning and security testing.
-- **Wireshark**: Network protocol analysis.
-- **Nmap**: Network discovery and security auditing.
-- **Dirb & Gobuster**: Web directory and file brute-forcing tools.
-- **Kali Linux**: Primary OS for penetration testing.
-
-### Technologies & Skills:
-- **Linux**: Proficient with Linux command-line for security tasks.
-- **Cryptography**: Working with encryption algorithms and hashing techniques.
-- **Binary Exploitation**: Exploiting software vulnerabilities and analyzing binaries.
-
-## 🌱 Learning & Improving:
-- Participating in **ethical hacking** and **penetration testing** courses.
-- Working on **real-world vulnerabilities** through **hands-on labs** and **open-source projects**.
-- Exploring **CTF challenges** to improve my practical security skills.
-
-## 📫 How to Reach Me:
-- Feel free to connect with me on **GitHub**, or you can reach out through my other social media channels:
-  - **LinkedIn**: [Your LinkedIn Profile]
-  - **Twitter**: [Your Twitter Profile]
+# 👨‍💻 **Cybersecurity Enthusiast | Ethical Hacker | Security Researcher**  
+Welcome to my GitHub! I’m [Your Name], a cybersecurity enthusiast focused on ethical hacking, penetration testing, and security research.  
+I'm continuously expanding my skills and exploring the latest vulnerabilities and exploits.
 
 ---
 
-🌱 **"Security is a continuous journey. Stay alert, stay ahead."**
+## 🚀 **Current Focus**
+- **Hands-On Learning**: Constantly participating in **Capture The Flag (CTF)** challenges and security assessments.
+- **Vulnerability Exploration**: Diving deep into real-world vulnerabilities and attack methodologies.
+- **Tool Mastery**: Strengthening proficiency with key cybersecurity tools.
+
+---
+
+## 🛠️ **Skills & Expertise**
+### **Penetration Testing & Security**  
+- **Burp Suite**: Web vulnerability scanning and testing  
+- **Wireshark**: Network packet analysis and traffic inspection  
+- **Nmap**: Network discovery and security auditing  
+- **Kali Linux**: My go-to operating system for ethical hacking and penetration testing.
+
+### **Programming & Exploitation*
