@@ -1,8 +1,8 @@
-# ![Cybersecurity](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)  
+# ![Cybersecurity](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 # Hi there! 👋  
 
-I'm Vamshi, a cybersecurity enthusiast passionate about ethical hacking and security research.  
+I'm [Your Name], a cybersecurity enthusiast passionate about ethical hacking and security research.  
 I'm currently learning and improving my skills in:  
 
 ## 🚀 Skills  
