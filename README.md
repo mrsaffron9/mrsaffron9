@@ -1,32 +1,41 @@
-# ![Cybersecurity](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+# 👨‍💻 Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 
-# Hi there! 👋  
+Welcome to my GitHub! I'm [Your Name], passionate about **ethical hacking** and **cybersecurity research**. I'm currently enhancing my skills and diving deep into various domains like:
 
-I'm [Your Name], a cybersecurity enthusiast passionate about ethical hacking and security research.  
-I'm currently learning and improving my skills in:  
+- **Binary Exploitation**
+- **Cryptography**
+- **Web Security**
+- **Penetration Testing**
 
-## 🚀 Skills  
-- <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="40"> **Binary Exploitation**  
-- <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="40"> **Cryptography**  
-- <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="40"> **Web Security**  
-- <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="40"> **Penetration Testing**  
+## 🚀 Current Focus
+- Learning by participating in **Capture The Flag (CTF)** challenges.
+- Gaining hands-on experience through **vulnerability assessments** and **exploitation techniques**.
+- Keeping up to date with the latest in **cybersecurity trends** and **attack methodologies**.
 
-## 🛠️ Tools & Technologies 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40"> **Linux Commands** 
-- <img src="https://your-image-hosting.com/path-to-image.jpg" width="40"> **Burp Suite**  
-- <img src="https://your-image-hosting.com/path-to-image.jpg" width="40"> **Wireshark**  
-- <img src="https://your-image-hosting.com/path-to-image.jpg" width="40"> **Nmap**  
-- <img src="https://your-image-hosting.com/path-to-image.jpg" width="40"> **Dirb & Gobuster**  
+## 🛠️ Tools & Technologies
 
+### Security Tools:
+- **Burp Suite**: Web vulnerability scanning and security testing.
+- **Wireshark**: Network protocol analysis.
+- **Nmap**: Network discovery and security auditing.
+- **Dirb & Gobuster**: Web directory and file brute-forcing tools.
+- **Kali Linux**: Primary OS for penetration testing.
 
-## 📌 Current Focus  
-🔹 Enhancing my skills by participating in CTFs and hands-on security challenges.  
-🔹 Exploring real-world vulnerabilities and attack methodologies.  
-🔹 Continuously learning and growing in the field of cybersecurity.  
+### Technologies & Skills:
+- **Linux**: Proficient with Linux command-line for security tasks.
+- **Cryptography**: Working with encryption algorithms and hashing techniques.
+- **Binary Exploitation**: Exploiting software vulnerabilities and analyzing binaries.
 
-## 📫 Connect with Me  
-Feel free to connect with me on GitHub, and let's share knowledge together!  
+## 🌱 Learning & Improving:
+- Participating in **ethical hacking** and **penetration testing** courses.
+- Working on **real-world vulnerabilities** through **hands-on labs** and **open-source projects**.
+- Exploring **CTF challenges** to improve my practical security skills.
+
+## 📫 How to Reach Me:
+- Feel free to connect with me on **GitHub**, or you can reach out through my other social media channels:
+  - **LinkedIn**: [Your LinkedIn Profile]
+  - **Twitter**: [Your Twitter Profile]
 
 ---
 
-🌱 *"Security is a journey, not a destination."*  
+🌱 **"Security is a continuous journey. Stay alert, stay ahead."**
