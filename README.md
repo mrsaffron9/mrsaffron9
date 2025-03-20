@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm Vamshi, a cybersecurity enthusiast passionate about ethical hacking and security research.  
+I'm [Your Name], a cybersecurity enthusiast passionate about ethical hacking and security research.  
 I'm currently learning and improving my skills in:  
 
 ## 🚀 Skills  
@@ -10,11 +10,11 @@ I'm currently learning and improving my skills in:
 - ![Penetration Testing](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif) **Penetration Testing**  
 
 ## 🛠️ Tools & Technologies  
-- ![Burp Suite](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) **Burp Suite**  
-- ![Nmap](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) **Nmap**  
-- ![Dirb & Gobuster](https://media.giphy.com/media/l4FGBj2UR4W4P4GZO/giphy.gif) **Dirb & Gobuster**  
-- ![Linux Commands](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) **Linux Commands**  
-- ![Wireshark](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif) **Wireshark**  
+- <img src="https://portswigger.net/cms/images/63/92/63927b3f4d64-article-210323-burp-suite-2021-2.jpg" width="50"> **Burp Suite**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Nmap_logo.svg" width="50"> **Nmap**  
+- <img src="https://www.kali.org/tools/dirb/images/dirb-logo.svg" width="50"> **Dirb & Gobuster**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="50"> **Linux Commands**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" width="50"> **Wireshark**  
 
 ## 📌 Current Focus  
 🔹 Enhancing my skills by participating in CTFs and hands-on security challenges.  
